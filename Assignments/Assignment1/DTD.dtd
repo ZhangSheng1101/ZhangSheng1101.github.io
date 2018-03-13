@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT movielist (movie)+>
+<!ELEMENT movie ( name, image, director, screenwriter, stars, type+, makingregion+, language+, releasetime, length+, score?, description)>
+<!ATTLIST movie id CDATA #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT image (#PCDATA)>
+<!ATTLIST image src CDATA #REQUIRED>
+<!ELEMENT director (person+)>
+<!ELEMENT person ((first_name,last_name)|(last_name,first_name))>
+<!ELEMENT first_name (#PCDATA)>
+<!ELEMENT last_name (#PCDATA)>
+<!ELEMENT screenwriter (person+)>
+<!ELEMENT stars (person+)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT makingregion (#PCDATA)>
+<!ELEMENT language (#PCDATA)>
+<!ELEMENT releasetime (date)+>
+<!ELEMENT date (#PCDATA)>
+<!ATTLIST date area CDATA  "中国">
+<!ELEMENT length (#PCDATA)>
+<!ATTLIST length area CDATA  "中国">
+<!ELEMENT score (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
