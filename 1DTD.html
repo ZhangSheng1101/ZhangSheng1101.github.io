@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DTD</title>
+</head>
+<body>
+<xmp style="color: black;background-color: aquamarine">
+    <?xml version="1.0" encoding="UTF-8"?>
+    <!ELEMENT movielist (movie)+>
+    <!ELEMENT movie (productinformation, screenversion, contributor)>
+
+    <!ELEMENT productinformation (name, image, score?, description, makingregion+)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT image (#PCDATA)>
+    <!ATTLIST image src CDATA #REQUIRED>
+    <!ELEMENT score (#PCDATA)>
+    <!ELEMENT description (#PCDATA)>
+    <!ELEMENT makingregion (#PCDATA)>
+
+    <!ELEMENT screenversion (type+, language+, releasetime, length+)>
+    <!ELEMENT type (#PCDATA)>
+    <!ELEMENT language (#PCDATA)>
+    <!ELEMENT releasetime (date)+>
+    <!ELEMENT date (#PCDATA)>
+    <!ATTLIST date area CDATA  "中国">
+    <!ELEMENT length (#PCDATA)>
+    <!ATTLIST length area CDATA  "中国">
+
+    <!ELEMENT contributor (director, screenwriter, stars)>
+    <!ELEMENT director (person+)>
+    <!ELEMENT person ((first_name,last_name)|(last_name,first_name))>
+    <!ELEMENT first_name (#PCDATA)>
+    <!ELEMENT last_name (#PCDATA)>
+    <!ELEMENT screenwriter (person+)>
+    <!ELEMENT stars (person+)>
+
+</xmp>
+</body>
+</html>
