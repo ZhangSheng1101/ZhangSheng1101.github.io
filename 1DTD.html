@@ -6,34 +6,42 @@
 </head>
 <body>
 <xmp style="color: black;background-color: aquamarine">
-    <?xml version="1.0" encoding="UTF-8"?>
-    <!ELEMENT movielist (movie)+>
-    <!ELEMENT movie (productinformation, screenversion, contributor)>
+   <?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT movielist (movie+)>
+<!--根目录movielist可以包含多个movie元素-->
 
-    <!ELEMENT productinformation (name, image, score?, description, makingregion+)>
-    <!ELEMENT name (#PCDATA)>
-    <!ELEMENT image (#PCDATA)>
-    <!ATTLIST image src CDATA #REQUIRED>
-    <!ELEMENT score (#PCDATA)>
-    <!ELEMENT description (#PCDATA)>
-    <!ELEMENT makingregion (#PCDATA)>
+<!ELEMENT movie (productinformation, screeningversion, contributor)>
+<!ATTLIST movie id ID #REQUIRED>
+<!--movie元素具有属性：唯一id标识-->
 
-    <!ELEMENT screenversion (type+, language+, releasetime, length+)>
-    <!ELEMENT type (#PCDATA)>
-    <!ELEMENT language (#PCDATA)>
-    <!ELEMENT releasetime (date)+>
-    <!ELEMENT date (#PCDATA)>
-    <!ATTLIST date area CDATA  "中国">
-    <!ELEMENT length (#PCDATA)>
-    <!ATTLIST length area CDATA  "中国">
+<!ELEMENT productinformation (name, image, makingregion+, score?, description)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT image (#PCDATA)>
+<!ATTLIST image src CDATA #REQUIRED>
+<!ELEMENT makingregion (#PCDATA)>
+<!ELEMENT score (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
 
-    <!ELEMENT contributor (director, screenwriter, stars)>
-    <!ELEMENT director (person+)>
-    <!ELEMENT person ((first_name,last_name)|(last_name,first_name))>
-    <!ELEMENT first_name (#PCDATA)>
-    <!ELEMENT last_name (#PCDATA)>
-    <!ELEMENT screenwriter (person+)>
-    <!ELEMENT stars (person+)>
+<!ELEMENT screeningversion (type+, language+, releasetime, length+)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT language (#PCDATA)>
+<!ELEMENT releasetime (date)+>
+<!ELEMENT date (#PCDATA)>
+<!ATTLIST date area CDATA  "中国">
+<!--影片上映时间对应的地区，默认为中国-->
+<!ELEMENT length (#PCDATA)>
+<!ATTLIST length area CDATA  "中国">
+<!--影片时长对应的地区，默认为中国-->
+
+<!ELEMENT contributor (director, screenwriter, stars)>
+<!ELEMENT director (person+)>
+<!ELEMENT person ((first_name,last_name)|(last_name,first_name))>
+<!--考虑不同地方姓名写法不同，这里强制顺序-->
+<!ELEMENT first_name (#PCDATA)>
+<!ELEMENT last_name (#PCDATA)>
+<!ELEMENT screenwriter (person+)>
+<!ELEMENT stars (person+)>
+
 
 </xmp>
 </body>
