@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movielist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Untitled1.xsd">
-	<movie id="1">
+	<movie id="us0001">
 		<productinformation>
 			<name>伯德小姐</name>
 			<image src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505925363.webp"/>
@@ -46,7 +46,7 @@
 			</stars>
 		</contributor>
 	</movie>
-	<movie id="2">
+	<movie id="us0002">
 		<productinformation>
 			<name>勇往直前</name>
 			<image src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506348908.webp"/>
@@ -59,7 +59,6 @@
 			<type>剧情</type>
 			<type>传记</type>
 			<type>灾难</type>
-		
 			<language>英语</language>
 			<releasetime>
 				<date area="美国">2017-10-20</date>
@@ -101,7 +100,7 @@
 			</stars>
 		</contributor>
 	</movie>
-	<movie id="3">
+	<movie id="jp0001">
 		<productinformation>
 			<name>啊，荒野前篇</name>
 			<image src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2493381063.webp"/>
@@ -112,7 +111,6 @@
 		</productinformation>
 		<screeningversion>
 			<type>剧情</type>
-			
 			<language>日语</language>
 			<releasetime>
 				<date area="日本">2017-10-07</date>
@@ -162,9 +160,9 @@
 					<first_name>将晖</first_name>
 				</person>
 			</stars>
-		</contributor>	
+		</contributor>
 	</movie>
-	<movie id="4">
+	<movie id="us0003">
 		<productinformation>
 			<name>忠犬八公的故事 </name>
 			<image src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p524964016.webp"/>
@@ -216,9 +214,9 @@
 					<last_name>罗默尔</last_name>
 				</person>
 			</stars>
-		</contributor>	
+		</contributor>
 	</movie>
-	<movie id="5">
+	<movie id="us0004">
 		<productinformation>
 			<name>十二怒汉</name>
 			<image src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173577632.webp"/>
@@ -262,9 +260,9 @@
 					<last_name>科布</last_name>
 				</person>
 			</stars>
-		</contributor>	
+		</contributor>
 	</movie>
-	<movie id="6">
+	<movie id="cn0001">
 		<productinformation>
 			<name>霸王别姬</name>
 			<image src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910813120.webp"/>
@@ -272,7 +270,7 @@
 			<score>9.5</score>
 			<description>
 影片围绕两位京剧伶人半个世纪的悲欢离合，展现了对传统文化、人的生存状态及人性的思考与领悟。
-			</description>	
+			</description>
 		</productinformation>
 		<screeningversion>
 			<type>剧情</type>
@@ -314,9 +312,9 @@
 					<first_name>丰毅</first_name>
 				</person>
 			</stars>
-		</contributor>				
+		</contributor>
 	</movie>
-	<movie id="7">
+	<movie id="fr0001">
 		<productinformation>
 			<name>这个杀手不太冷</name>
 			<image src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p511118051.webp"/>
@@ -371,7 +369,7 @@
 			</stars>
 		</contributor>
 	</movie>
-	<movie id="8">
+	<movie id="in0001">
 		<productinformation>
 			<name>摔跤吧！爸爸</name>
 			<image src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2457983084.webp"/>
@@ -385,7 +383,7 @@
 			<type>剧情</type>
 			<type>喜剧</type>
 			<type>传记</type>
-			<type>运动</type>	
+			<type>运动</type>
 			<language>北印度语</language>
 			<releasetime>
 				<date area="印度">2016-12-23</date>
@@ -432,9 +430,9 @@
 					<last_name>玛荷塔</last_name>
 				</person>
 			</stars>
-		</contributor>		
+		</contributor>
 	</movie>
-	<movie id="9">
+	<movie id="us0005">
 		<productinformation>
 			<name>我是传奇</name>
 			<image src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p574158935.webp"/>
@@ -481,7 +479,7 @@
 			</stars>
 		</contributor>
 	</movie>
-	<movie id="10">
+	<movie id="us0006">
 		<productinformation>
 			<name>低俗小说</name>
 			<image src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910902213.webp"/>
@@ -543,7 +541,7 @@
 			</stars>
 		</contributor>
 	</movie>
-	<movie id="11">
+	<movie id="cn0002">
 		<productinformation>
 			<name>喜剧之王</name>
 			<image src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1043597424.webp"/>
@@ -556,7 +554,7 @@
 		<screeningversion>
 			<type>剧情</type>
 			<type>爱情</type>
-			<type>喜剧</type>		
+			<type>喜剧</type>
 			<language>粤语</language>
 			<releasetime>
 				<date>1999-02-13</date>
@@ -600,7 +598,7 @@
 			</stars>
 		</contributor>
 	</movie>
-	<movie id="12">
+	<movie id="jp0002">
 		<productinformation>
 			<name>情书</name>
 			<image src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p449897379.webp"/>
@@ -645,9 +643,9 @@
 					<first_name>悦司</first_name>
 				</person>
 			</stars>
-		</contributor>	
+		</contributor>
 	</movie>
-	<movie id="13">
+	<movie id="jp0003">
 		<productinformation>
 			<name>入殓师</name>
 			<image src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p594972928.webp"/>
@@ -700,9 +698,9 @@
 					<first_name>高史</first_name>
 				</person>
 			</stars>
-		</contributor>		
+		</contributor>
 	</movie>
-	<movie id="14">
+	<movie id="us0007">
 		<productinformation>
 			<name>爆裂鼓手</name>
 			<image src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2220776342.webp"/>
@@ -752,9 +750,9 @@
 					<last_name>斯托维尔</last_name>
 				</person>
 			</stars>
-		</contributor>	
+		</contributor>
 	</movie>
-	<movie id="15">
+	<movie id="jp0004">
 		<productinformation>
 			<name>言叶之庭</name>
 			<image src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1958733032.webp"/>

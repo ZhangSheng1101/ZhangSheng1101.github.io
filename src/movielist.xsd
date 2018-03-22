@@ -80,13 +80,42 @@
 			<xs:element ref="screeningversion"/>
 			<xs:element ref="contributor"/>
 		</xs:sequence>
-		<xs:attribute name="id" type="xs:positiveInteger"/>
+		<xs:attribute name="id" type="xs:ID"/>
 	</xs:complexType>
 	<xs:complexType name="typeML">
 		<xs:sequence>
 			<xs:element ref="movie" maxOccurs="unbounded"/>
 		</xs:sequence>
 	</xs:complexType>
+	<xs:simpleType name="typeType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="剧情"/>
+			<xs:enumeration value="动作"/>
+			<xs:enumeration value="冒险"/>
+			<xs:enumeration value="喜剧"/>
+			<xs:enumeration value="爱情"/>
+			<xs:enumeration value="战争"/>
+			<xs:enumeration value="恐怖"/>
+			<xs:enumeration value="犯罪"/>
+			<xs:enumeration value="悬疑"/>
+			<xs:enumeration value="惊悚"/>
+			<xs:enumeration value="武侠"/>
+			<xs:enumeration value="科幻"/>
+			<xs:enumeration value="音乐"/>
+			<xs:enumeration value="动画"/>
+			<xs:enumeration value="奇幻"/>
+			<xs:enumeration value="家庭"/>
+			<xs:enumeration value="剧情"/>
+			<xs:enumeration value="伦理"/>
+			<xs:enumeration value="记录"/>
+			<xs:enumeration value="历史"/>
+			<xs:enumeration value="青春"/>
+			<xs:enumeration value="励志"/>
+			<xs:enumeration value="传记"/>
+			<xs:enumeration value="灾难"/>
+			<xs:enumeration value="运动"/>
+		</xs:restriction>
+	</xs:simpleType>
 	<xs:element name="name" type="xs:string"/>
 	<xs:element name="image" type="typeImg"/>
 	<xs:element name="first_name" type="xs:string"/>
@@ -95,7 +124,7 @@
 	<xs:element name="director" type="typeDrctr"/>
 	<xs:element name="screenwriter" type="typeSW"/>
 	<xs:element name="stars" type="typeStars"/>
-	<xs:element name="type" type="xs:string"/>
+	<xs:element name="type" type="typeType"/>
 	<xs:element name="makingregion" type="xs:string"/>
 	<xs:element name="language" type="xs:string"/>
 	<xs:element name="date" type="typeDate"/>
