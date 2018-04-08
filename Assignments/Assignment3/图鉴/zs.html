@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>SVG</title>
+    <style style="text/css">
+        svg{
+        display: block;
+        margin: 60px auto;
+        }
+        #dax{
+        stroke-dasharray:2000;
+        animation:4s dong forwards;
+        }
+        @keyframes dong{
+        0%{
+        stroke-dashoffset:2000;
+        }
+        99%{
+        stroke-dashoffset:0;
+        }
+        100%{
+        stroke:#fff;
+        fill:red;
+        transition:4s;
+        }
+        }
+    </style></head>
+
+
+<body>
+
+
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+
+            <path id="dax" d="m289.202755,135.922107c56.89674,-163.228294 279.820033,0 0,209.864949c-279.820033,-209.864949 -56.89674,-373.093243 0,-209.864949z" stroke-width="1.5" fill="none" stroke="#000"/>
+    <animateTransform
+            attributeName="transform"
+            begin="3s"
+            dur="1s"
+            type="scale"
+            from="1"
+            to="1.1"
+            repeatCount="indefinite"
+    />
+      </svg>
+
+<script type="text/javascript">
+    var obj = document.querySelector("path");
+    var length = obj.getTotalLength();
+    console.log(length); // path 路径长度
+</script></body>
+</html>

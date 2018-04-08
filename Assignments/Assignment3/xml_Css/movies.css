@@ -1,0 +1,78 @@
+*{
+	display: inline;
+	font-family:Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;
+}
+
+movielist{
+	display: block;
+	margin: 20px;
+	border-bottom: solid 2px gray;
+	padding: 0.8em;
+	background-color: #cdc5bf;
+}
+movie productinformation name{
+	display: block;
+	border-top: solid 2px gray;
+	color: black;
+	text-decoration: underline;
+	font-size:16pt;
+	font:宋体;
+	font-weight: bold;
+	height:2em;
+
+}
+movie productinformation score{
+	display: block;
+	color: red;
+	text-decoration: underline;
+	font-size:16pt;
+	position: relative;
+	bottom:2.8em;
+	left:8.4em;
+}
+movie productinformation makingregion{
+	display: block inline;
+	width: 2em;
+	position: relative;
+	top:1em;
+}
+
+movie productinformation description{
+	display: block;
+	border: solid 1px gray;
+	margin-left: 8em;
+	margin-right: 2em;
+	height: 9em;
+	width: 28em;
+}
+movie screeningversion type{
+	display: block inline;
+	color:blue;
+	width: 2.5em;
+	position: relative;
+	bottom:9em;
+
+
+}
+movie screeningversion language{
+    display:block;
+    position: relative;
+    bottom:9em;
+}
+movie screeningversion releasetime,length,
+movie contributor screenwriter{
+	display: none;
+}
+movie contributor stars person{
+	display: block;
+	height: 1.8em;
+	position: relative;
+	bottom:4em;
+}
+movie contributor director{
+	font-style: italic;
+	display: block;
+	height:1.8em;
+	position: relative;
+	bottom:14.5em;
+}

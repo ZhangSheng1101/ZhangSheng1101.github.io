@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="movies.css"?>
+<movielist>
+	<movie id="us0001">
+		<productinformation>
+			<name>伯德小姐</name>
+			<image src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505925363.webp"/>
+			<makingregion>美国</makingregion>
+			<score>8.0</score>
+			<description>		  		生活在美国加州萨克拉门托市女孩克里斯汀·麦克弗森（西尔莎·罗南饰），继承了母亲玛丽恩·麦克弗森（劳里·梅特卡夫饰）的强硬性格，使她和母亲的关系一直紧张，以及在生活各方面发生冲突和矛盾，但两人在内心深处却又紧密相连。克里斯汀一心想要离开加州去往美国东部读书，然而本不宽裕的家庭又逢父亲拉里（崔西·莱茨饰）失业，更是雪上加霜。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>喜剧</type>
+			<language>英语</language>
+			<releasetime>
+				<date area="美国">2017-11-03</date>
+			</releasetime>
+			<length area="美国">PT93M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>格蕾塔</first_name>
+					<last_name>葛韦格</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>格蕾塔</first_name>
+					<last_name>葛韦格</last_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name>西尔莎</first_name>
+					<last_name>罗南</last_name>
+				</person>
+				<person>
+					<first_name>劳里</first_name>
+					<last_name>梅特卡夫</last_name>
+				</person>
+				<person>
+					<first_name>卢卡斯</first_name>
+					<last_name>赫奇斯</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="us0002">
+		<productinformation>
+			<name>勇往直前</name>
+			<image src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506348908.webp"/>
+			<makingregion>美国</makingregion>
+			<score>8.4</score>
+			<description>		  在“格拉尼特山高手队”创建之初，队里既有失足青年也有人面临婚姻危机等各种生活问题。队长埃里克·马什（乔什·布洛林饰）却始终充满热情，督促队员刻苦训练。这支看似由失意者组成的团队也逐步成为城镇的荣誉象征。然而这一切被突如其来的森林大火所打破，面对近在咫尺的灾难，作为尖兵部队的他们勇往直前，却在阻止火势蔓延时被困火海、命悬一线，整个团队的安危与荣誉也面临巨大考验。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<type>传记</type>
+			<type>灾难</type>
+			<language>英语</language>
+			<releasetime>
+				<date area="美国">2017-10-20</date>
+				<date>2017-12-08</date>
+			</releasetime>
+			<length area="美国">PT134M</length>
+			<length>PT127M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>约瑟夫</first_name>
+					<last_name>科辛斯基</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>肯</first_name>
+					<last_name>诺兰</last_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name>乔什</first_name>
+					<last_name>布洛林</last_name>
+				</person>
+				<person>
+					<first_name>迈尔斯</first_name>
+					<last_name>特勒</last_name>
+				</person>
+				<person>
+					<first_name>杰夫</first_name>
+					<last_name>布里吉斯</last_name>
+				</person>
+				<person>
+					<first_name>詹妮弗</first_name>
+					<last_name>康纳利</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="jp0001">
+		<productinformation>
+			<name>啊，荒野前篇</name>
+			<image src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2493381063.webp"/>
+			<makingregion>日本</makingregion>
+			<score>8.1</score>
+			<description>	小说故事讲述六十年代的新宿、一个无名、未知的荒野为舞台，描写孤独的拳击手BARIKAN与新次的青春物语。考虑到现代元素进行改编，时间设定在2020年东京奥林匹克运动会之后的近未来。讲述邂逅于拳击馆的来自少年感化院的新次（菅田将晖 饰），和口吃并且对着生人就会满脸通红有社交恐惧症的“推子”（梁益俊 饰）的青春故事。在日本的荒野——新宿中，他们两人一边挣扎，一边通过挑战拳击来掩盖内心的空白。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<language>日语</language>
+			<releasetime>
+				<date area="日本">2017-10-07</date>
+			</releasetime>
+			<length area="日本">PT157M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>岸善</first_name>
+					<last_name>幸</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<last_name>寺山</last_name>
+					<first_name>修司</first_name>
+				</person>
+				<person>
+					<last_name>港岳</last_name>
+					<first_name>彦</first_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<last_name>山田</last_name>
+					<first_name>裕貴</first_name>
+				</person>
+				<person>
+					<last_name>木村</last_name>
+					<first_name>多江</first_name>
+				</person>
+				<person>
+					<last_name>今野</last_name>
+					<first_name>杏南</first_name>
+				</person>
+				<person>
+					<last_name>高橋</last_name>
+					<first_name>和也</first_name>
+				</person>
+				<person>
+					<last_name>梁</last_name>
+					<first_name>益俊</first_name>
+				</person>
+				<person>
+					<last_name>菅田</last_name>
+					<first_name>将晖</first_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+    <movie id="cn0002">
+		<productinformation>
+			<name>喜剧之王</name>
+			<image src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1043597424.webp"/>
+			<makingregion>中国香港</makingregion>
+			<score>8.5</score>
+			<description>
+影片讲述对喜剧情有独钟的尹天仇与舞女柳飘飘逐渐产生感情，之后在杜娟儿的帮助下，尹天仇终于获得机会演主角，但又陷入与柳飘飘、杜娟儿的三角恋漩涡之中。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<type>爱情</type>
+			<type>喜剧</type>
+			<language>粤语</language>
+			<releasetime>
+				<date>1999-02-13</date>
+			</releasetime>
+			<length>PT89M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<last_name>周</last_name>
+					<first_name>星驰</first_name>
+				</person>
+				<person>
+					<last_name>李</last_name>
+					<first_name>力持</first_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<last_name>曾</last_name>
+					<first_name>谨昌</first_name>
+				</person>
+				<person>
+					<last_name>周</last_name>
+					<first_name>星驰</first_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<last_name>周</last_name>
+					<first_name>星驰</first_name>
+				</person>
+				<person>
+					<last_name>莫</last_name>
+					<first_name>文蔚</first_name>
+				</person>
+				<person>
+					<last_name>张</last_name>
+					<first_name>柏芝</first_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="us0004">
+		<productinformation>
+			<name>十二怒汉</name>
+			<image src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173577632.webp"/>
+			<makingregion>美国</makingregion>
+			<score>9.4</score>
+			<description>	影片讲述一个在贫民窟中长大的男孩被指控谋杀生父，案件的旁观者和凶器均以呈堂铁证如山，而担任此案陪审团的12个人要于案件结案前在陪审团休息室里讨论案情，而讨论结果必须要一致通过才能正式结案的故事。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<language>英语</language>
+			<releasetime>
+				<date area="美国">1957-04-13</date>
+			</releasetime>
+			<length area="美国">PT96M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>瑞吉诺</first_name>
+					<last_name>罗斯</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>亨利</first_name>
+					<last_name>方达</last_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name>马丁</first_name>
+					<last_name>鲍尔萨姆</last_name>
+				</person>
+				<person>
+					<first_name>杰克</first_name>
+					<last_name>克卢格曼</last_name>
+				</person>
+				<person>
+					<first_name>李</first_name>
+					<last_name>科布</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+</movielist>

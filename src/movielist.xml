@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<movielist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Untitled1.xsd">
-	<movie id="us0001">
+<movielist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="movielist.xsd">
+	<movie id="us0001"
+	>
 		<productinformation>
 			<name>伯德小姐</name>
 			<image src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505925363.webp"/>

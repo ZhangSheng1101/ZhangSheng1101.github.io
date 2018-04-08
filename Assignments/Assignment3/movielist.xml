@@ -1,0 +1,1614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="movielist.xsl"?>
+<movielist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="movielist.xsd">
+	<movie id="us0001">
+		<productinformation>
+			<name>伯德小姐</name>
+			<image src="images/伯德小姐.png"/>
+			<makingregion>美国</makingregion>
+			<score>8.0</score>
+			<description>		  		生活在美国加州萨克拉门托市女孩克里斯汀·麦克弗森（西尔莎·罗南饰），继承了母亲玛丽恩·麦克弗森（劳里·梅特卡夫饰）的强硬性格，使她和母亲的关系一直紧张，以及在生活各方面发生冲突和矛盾，但两人在内心深处却又紧密相连。克里斯汀一心想要离开加州去往美国东部读书，然而本不宽裕的家庭又逢父亲拉里（崔西·莱茨饰）失业，更是雪上加霜。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>喜剧</type>
+			<language>英语</language>
+			<releasetime>
+				<date area="美国">2017-11-03</date>
+			</releasetime>
+			<length area="美国">PT93M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>格蕾塔</first_name>
+					<last_name>葛韦格</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>格蕾塔</first_name>
+					<last_name>葛韦格</last_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name>西尔莎</first_name>
+					<last_name>罗南</last_name>
+				</person>
+				<person>
+					<first_name>劳里</first_name>
+					<last_name>梅特卡夫</last_name>
+				</person>
+				<person>
+					<first_name>卢卡斯</first_name>
+					<last_name>赫奇斯</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="us0002">
+		<productinformation>
+			<name>勇往直前</name>
+			<image src="images/勇往直前.png"/>
+			<makingregion>美国</makingregion>
+			<score>8.4</score>
+			<description>		  在“格拉尼特山高手队”创建之初，队里既有失足青年也有人面临婚姻危机等各种生活问题。队长埃里克·马什（乔什·布洛林饰）却始终充满热情，督促队员刻苦训练。这支看似由失意者组成的团队也逐步成为城镇的荣誉象征。然而这一切被突如其来的森林大火所打破，面对近在咫尺的灾难，作为尖兵部队的他们勇往直前，却在阻止火势蔓延时被困火海、命悬一线，整个团队的安危与荣誉也面临巨大考验。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<type>传记</type>
+			<type>灾难</type>
+			<language>英语</language>
+			<releasetime>
+				<date area="美国">2017-10-20</date>
+				<date area="中国">2017-12-08</date>
+			</releasetime>
+			<length area="美国">PT134M</length>
+			<length area="中国">PT127M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>约瑟夫</first_name>
+					<last_name>科辛斯基</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>肯</first_name>
+					<last_name>诺兰</last_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name>乔什</first_name>
+					<last_name>布洛林</last_name>
+				</person>
+				<person>
+					<first_name>迈尔斯</first_name>
+					<last_name>特勒</last_name>
+				</person>
+				<person>
+					<first_name>杰夫</first_name>
+					<last_name>布里吉斯</last_name>
+				</person>
+				<person>
+					<first_name>詹妮弗</first_name>
+					<last_name>康纳利</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="jp0001">
+		<productinformation>
+			<name>啊，荒野前篇</name>
+			<image src="images/啊，荒野前篇.png"/>
+			<makingregion>日本</makingregion>
+			<score>8.1</score>
+			<description>	小说故事讲述六十年代的新宿、一个无名、未知的荒野为舞台，描写孤独的拳击手BARIKAN与新次的青春物语。考虑到现代元素进行改编，时间设定在2020年东京奥林匹克运动会之后的近未来。讲述邂逅于拳击馆的来自少年感化院的新次（菅田将晖 饰），和口吃并且对着生人就会满脸通红有社交恐惧症的“推子”（梁益俊 饰）的青春故事。在日本的荒野——新宿中，他们两人一边挣扎，一边通过挑战拳击来掩盖内心的空白。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<language>日语</language>
+			<releasetime>
+				<date area="日本">2017-10-07</date>
+			</releasetime>
+			<length area="日本">PT157M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>岸善</first_name>
+					<last_name>幸</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<last_name>寺山</last_name>
+					<first_name>修司</first_name>
+				</person>
+				<person>
+					<last_name>港岳</last_name>
+					<first_name>彦</first_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<last_name>山田</last_name>
+					<first_name>裕貴</first_name>
+				</person>
+				<person>
+					<last_name>木村</last_name>
+					<first_name>多江</first_name>
+				</person>
+				<person>
+					<last_name>今野</last_name>
+					<first_name>杏南</first_name>
+				</person>
+				<person>
+					<last_name>高橋</last_name>
+					<first_name>和也</first_name>
+				</person>
+				<person>
+					<last_name>梁</last_name>
+					<first_name>益俊</first_name>
+				</person>
+				<person>
+					<last_name>菅田</last_name>
+					<first_name>将晖</first_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="us0003">
+		<productinformation>
+			<name>忠犬八公的故事</name>
+			<image src="images/忠犬八公的故事.png"/>
+			<makingregion>美国</makingregion>
+			<makingregion>日本</makingregion>
+			<score>9.2</score>
+			<description>
+影片讲述一位大学教授收养了一只小秋田犬，取名“八公”。之后的每天，八公早上将教授送到车站，傍晚等待教授一起回家。不幸的是，教授因病辞世，再也没有回到车站，然而八公在之后的9年时间里依然每天按时在车站等待，直到最后死去。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<type>家庭</type>
+			<language>英语</language>
+			<language>日语</language>
+			<releasetime>
+				<date area="日本">2009-08-08</date>
+			</releasetime>
+			<length area="日本">PT93M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>莱塞</first_name>
+					<last_name>霍尔斯道姆</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>斯蒂芬</first_name>
+					<last_name>林赛</last_name>
+				</person>
+				<person>
+					<last_name>新藤</last_name>
+					<first_name>兼人</first_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name>理查</first_name>
+					<last_name>基尔</last_name>
+				</person>
+				<person>
+					<first_name>琼</first_name>
+					<last_name>艾伦</last_name>
+				</person>
+				<person>
+					<first_name>萨拉</first_name>
+					<last_name>罗默尔</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="us0004">
+		<productinformation>
+			<name>十二怒汉</name>
+			<image src="images/十二怒汉.png"/>
+			<makingregion>美国</makingregion>
+			<score>9.4</score>
+			<description>	影片讲述一个在贫民窟中长大的男孩被指控谋杀生父，案件的旁观者和凶器均以呈堂铁证如山，而担任此案陪审团的12个人要于案件结案前在陪审团休息室里讨论案情，而讨论结果必须要一致通过才能正式结案的故事。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<language>英语</language>
+			<releasetime>
+				<date area="美国">1957-04-13</date>
+			</releasetime>
+			<length area="美国">PT96M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>瑞吉诺</first_name>
+					<last_name>罗斯</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>亨利</first_name>
+					<last_name>方达</last_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name>马丁</first_name>
+					<last_name>鲍尔萨姆</last_name>
+				</person>
+				<person>
+					<first_name>杰克</first_name>
+					<last_name>克卢格曼</last_name>
+				</person>
+				<person>
+					<first_name>李</first_name>
+					<last_name>科布</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="cn0001">
+		<productinformation>
+			<name>霸王别姬</name>
+			<image src="images/霸王别姬.png"/>
+			<makingregion>中国</makingregion>
+			<score>9.5</score>
+			<description>
+影片围绕两位京剧伶人半个世纪的悲欢离合，展现了对传统文化、人的生存状态及人性的思考与领悟。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<type>爱情</type>
+			<language>汉语</language>
+			<releasetime>
+				<date area="中国">1993-01-01</date>
+			</releasetime>
+			<length area="中国">PT171M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<last_name>陈</last_name>
+					<first_name>凯歌</first_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<last_name>李</last_name>
+					<first_name>碧华</first_name>
+				</person>
+				<person>
+					<last_name>芦</last_name>
+					<first_name>苇</first_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<last_name>张</last_name>
+					<first_name>国荣</first_name>
+				</person>
+				<person>
+					<last_name>巩</last_name>
+					<first_name>俐</first_name>
+				</person>
+				<person>
+					<last_name>张</last_name>
+					<first_name>丰毅</first_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="fr0001">
+		<productinformation>
+			<name>这个杀手不太冷</name>
+			<image src="images/这个杀手不太冷.png"/>
+			<makingregion>法国</makingregion>
+			<makingregion>美国</makingregion>
+			<score>9.4</score>
+			<description>
+该片主要讲述了一名职业杀手与一个小女孩的故事。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<type>动作</type>
+			<type>犯罪</type>
+			<language>英语</language>
+			<releasetime>
+				<date area="法国">1994-09-14</date>
+			</releasetime>
+			<length area="美国">PT110M</length>
+			<length area="国际">PT133M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>吕克</first_name>
+					<last_name>贝松</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>吕克</first_name>
+					<last_name>贝松</last_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name>让</first_name>
+					<last_name>雷诺</last_name>
+				</person>
+				<person>
+					<first_name>娜塔莉</first_name>
+					<last_name>波特曼</last_name>
+				</person>
+				<person>
+					<first_name>加里</first_name>
+					<last_name>奥德曼</last_name>
+				</person>
+				<person>
+					<first_name>丹尼</first_name>
+					<last_name>爱罗</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="in0001">
+		<productinformation>
+			<name>摔跤吧！爸爸</name>
+			<image src="images/摔跤吧！爸爸.png"/>
+			<makingregion>印度</makingregion>
+			<score>9.1</score>
+			<description>
+影片根据印度摔跤手马哈维亚·辛格·珀尕的真实故事改编，讲述了曾经的摔跤冠军辛格培养两个女儿成为女子摔跤冠军，打破印度传统的励志故事。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<type>喜剧</type>
+			<type>传记</type>
+			<type>运动</type>
+			<language>北印度语</language>
+			<releasetime>
+				<date area="印度">2016-12-23</date>
+				<date area="中国">2017-05-05</date>
+			</releasetime>
+			<length area="中国">PT161M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>尼特什</first_name>
+					<last_name>提瓦瑞</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>比于什</first_name>
+					<last_name>古普塔</last_name>
+				</person>
+				<person>
+					<first_name>施热亚</first_name>
+					<last_name>简</last_name>
+				</person>
+				<person>
+					<first_name>尼特什</first_name>
+					<last_name>提瓦瑞</last_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name>阿米尔</first_name>
+					<last_name>汗</last_name>
+				</person>
+				<person>
+					<first_name>萨卡诗</first_name>
+					<last_name>泰瓦</last_name>
+				</person>
+				<person>
+					<first_name>加里</first_name>
+					<last_name>奥德曼</last_name>
+				</person>
+				<person>
+					<first_name>桑亚</first_name>
+					<last_name>玛荷塔</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="us0005">
+		<productinformation>
+			<name>我是传奇</name>
+			<image src="images/我是传奇.png"/>
+			<makingregion>美国</makingregion>
+			<score>7.9</score>
+			<description>
+影片主要讲述的是2012年，人类最终被病毒所击垮，前军方病毒学家罗伯·奈佛（威尔·史密斯饰）因为体内有自然抗体未受到感染，而成为纽约市唯一的幸存者，甚至曾一度认为自己就是全世界唯一幸存的人类。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>动作</type>
+			<language>英语</language>
+			<releasetime>
+				<date area="美国">2007-12-14</date>
+			</releasetime>
+			<length area="美国">PT101M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>弗朗西斯</first_name>
+					<last_name>劳伦斯</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>阿齐瓦</first_name>
+					<last_name>高斯曼</last_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name>威尔</first_name>
+					<last_name>史密斯</last_name>
+				</person>
+				<person>
+					<first_name>艾莉丝</first_name>
+					<last_name>布拉加</last_name>
+				</person>
+				<person>
+					<first_name>莎莉</first_name>
+					<last_name>理查德森</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="us0006">
+		<productinformation>
+			<name>低俗小说</name>
+			<image src="images/低俗小说.png"/>
+			<makingregion>美国</makingregion>
+			<score>8.8</score>
+			<description>
+影片由6个彼此独立而又紧密相连的故事所构成，6个故事都各自讲述了一个不同的事件，但他们却都有着共同的戏剧属性将它们紧密相连。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<type>喜剧</type>
+			<type>犯罪</type>
+			<language>英语</language>
+			<language>西班牙语</language>
+			<releasetime>
+				<date area="美国">1994-10-14</date>
+			</releasetime>
+			<length area="美国">PT154M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>昆汀</first_name>
+					<last_name>塔伦蒂诺</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>罗杰</first_name>
+					<last_name>阿夫瑞</last_name>
+				</person>
+				<person>
+					<first_name>昆汀</first_name>
+					<last_name>塔伦蒂诺</last_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name>布鲁斯</first_name>
+					<last_name>威利斯</last_name>
+				</person>
+				<person>
+					<first_name>乌玛</first_name>
+					<last_name>瑟曼</last_name>
+				</person>
+				<person>
+					<first_name>约翰</first_name>
+					<last_name>特拉沃塔</last_name>
+				</person>
+				<person>
+					<first_name>阿曼达</first_name>
+					<last_name>普拉莫</last_name>
+				</person>
+				<person>
+					<first_name>达蒂姆</first_name>
+					<last_name>罗斯</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="cn0002">
+		<productinformation>
+			<name>喜剧之王</name>
+			<image src="images/喜剧之王.png"/>
+			<makingregion>中国香港</makingregion>
+			<score>8.5</score>
+			<description>
+影片讲述对喜剧情有独钟的尹天仇与舞女柳飘飘逐渐产生感情，之后在杜娟儿的帮助下，尹天仇终于获得机会演主角，但又陷入与柳飘飘、杜娟儿的三角恋漩涡之中。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<type>爱情</type>
+			<type>喜剧</type>
+			<language>粤语</language>
+			<releasetime>
+				<date area="中国">1999-02-13</date>
+			</releasetime>
+			<length area="中国">PT89M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<last_name>周</last_name>
+					<first_name>星驰</first_name>
+				</person>
+				<person>
+					<last_name>李</last_name>
+					<first_name>力持</first_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<last_name>曾</last_name>
+					<first_name>谨昌</first_name>
+				</person>
+				<person>
+					<last_name>周</last_name>
+					<first_name>星驰</first_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<last_name>周</last_name>
+					<first_name>星驰</first_name>
+				</person>
+				<person>
+					<last_name>莫</last_name>
+					<first_name>文蔚</first_name>
+				</person>
+				<person>
+					<last_name>张</last_name>
+					<first_name>柏芝</first_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="jp0002">
+		<productinformation>
+			<name>情书</name>
+			<image src="images/情书.png"/>
+			<makingregion>日本</makingregion>
+			<score>8.8</score>
+			<description>	该片改编自同名小说《情书》，讲述了一封原本出于哀思而寄往天国的情书，却大出意料收到同名同姓的回信，并且逐渐挖掘出一段深埋多年却始终沉静的纯真单恋的爱情故事。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>爱情</type>
+			<language>日语</language>
+			<releasetime>
+				<date area="日本">1995-03-25</date>
+				<date area="中国">1999-03-01</date>
+			</releasetime>
+			<length area="中国">PT117M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<last_name>岩井</last_name>
+					<first_name>俊二</first_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<last_name>岩井</last_name>
+					<first_name>俊二</first_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<last_name>中山</last_name>
+					<first_name>美穗</first_name>
+				</person>
+				<person>
+					<last_name>柏原</last_name>
+					<first_name>崇</first_name>
+				</person>
+				<person>
+					<last_name>丰川</last_name>
+					<first_name>悦司</first_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="jp0003">
+		<productinformation>
+			<name>入殓师</name>
+			<image src="images/入殓师.png"/>
+			<makingregion>日本</makingregion>
+			<score>8.8</score>
+			<description>
+影片讲述了日本入殓师的生活，影片以一名入殓师新手的视角，去观察各种各样的死亡，凝视围绕在逝者周围的充满爱意的人们。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<language>日语</language>
+			<releasetime>
+				<date area="日本">2008-09-13</date>
+			</releasetime>
+			<length area="中国">PT130M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<last_name>泷田洋</last_name>
+					<first_name>二郎</first_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<last_name>小山</last_name>
+					<first_name>薰堂</first_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<last_name>本木</last_name>
+					<first_name>雅弘</first_name>
+				</person>
+				<person>
+					<last_name>山崎</last_name>
+					<first_name>努</first_name>
+				</person>
+				<person>
+					<last_name>广末</last_name>
+					<first_name>凉子</first_name>
+				</person>
+				<person>
+					<last_name>吉行</last_name>
+					<first_name>和子</first_name>
+				</person>
+				<person>
+					<last_name>笹野</last_name>
+					<first_name>高史</first_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="us0007">
+		<productinformation>
+			<name>爆裂鼓手</name>
+			<image src="images/爆裂鼓手.png"/>
+			<makingregion>美国</makingregion>
+			<score>8.6</score>
+			<description>
+《爆裂鼓手》讲述一个热爱音乐的年青人努力地想要成为顶尖的爵士乐鼓手的故事。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<type>音乐</type>
+			<language>英语</language>
+			<releasetime>
+				<date area="美国">2014-10-10</date>
+			</releasetime>
+			<length area="美国">PT107M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>达米恩</first_name>
+					<last_name>查泽雷</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>达米恩</first_name>
+					<last_name>查泽雷</last_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name>迈尔斯</first_name>
+					<last_name>特勒</last_name>
+				</person>
+				<person>
+					<first_name>J·K</first_name>
+					<last_name>西蒙斯</last_name>
+				</person>
+				<person>
+					<first_name>梅丽莎</first_name>
+					<last_name>贝努瓦</last_name>
+				</person>
+				<person>
+					<first_name>奥斯汀</first_name>
+					<last_name>斯托维尔</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="jp0004">
+		<productinformation>
+			<name>言叶之庭</name>
+			<image src="images/言叶之庭.png"/>
+			<makingregion>日本</makingregion>
+			<score>8.2</score>
+			<description>
+言叶之庭》的故事发生在现代东京，故事讲述了以制鞋人为目标的少年秋月和神秘女子雪野的恋爱故事。故事源于万叶集开篇的“孤悲”之恋，作品中透露出鞋、万叶集、日本庭园、雨等因素。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>动画</type>
+			<language>日语</language>
+			<releasetime>
+				<date area="日本">2013-05-31</date>
+			</releasetime>
+			<length area="日本">PT46M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<last_name>新海</last_name>
+					<first_name>诚</first_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<last_name>新海</last_name>
+					<first_name>诚</first_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<last_name>入野</last_name>
+					<first_name>自由</first_name>
+				</person>
+				<person>
+					<last_name>花泽</last_name>
+					<first_name>香菜</first_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="us0008">
+		<productinformation>
+			<name>三块广告牌</name>
+			<image src="images/三块广告牌.png"/>
+			<makingregion>美国</makingregion>
+			<score>8.7</score>
+			<description>
+1987年美国股灾之后，发生在美国密苏里州一座小镇上，米尔德里德·海耶斯（弗兰西斯·麦克多蒙德饰）是一位失去女儿的母亲，然而女儿遇害的案件却迟迟未曾了结，凶手依然逍遥法外。眼看着希望慢慢消逝，但是这位做事果决的母亲，与小镇上碌碌无为的警察之间的矛盾日渐尖锐，她借用三块广告牌向负责该案的警长发起质问，在小镇上掀起轩然大波，众多人物相继被卷入血腥、暴力的纷争之中。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>犯罪</type>
+			<type>剧情</type>
+			<language>英语</language>
+			<releasetime>
+				<date area="美国">2017-11-10</date>
+				<date area="中国">2018-03-02</date>
+			</releasetime>
+			<length area="美国">PT115M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>马丁</first_name>
+					<last_name>麦克唐纳</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>马丁</first_name>
+					<last_name>麦克唐纳</last_name>
+				</person>	
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name>弗兰西斯</first_name>
+					<last_name>麦克多蒙德</last_name>
+				</person>
+				<person>
+					<first_name>伍迪</first_name>
+					<last_name>哈里森</last_name>
+				</person>
+				<person>
+					<first_name>山姆</first_name>
+					<last_name>洛克威尔</last_name>
+				</person>
+				<person>
+					<first_name>艾比</first_name>
+					<last_name>考尼什</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="us0009">
+		<productinformation>
+			<name>寻梦环游记</name>
+			<image src="images/寻梦环游记.png"/>
+			<makingregion>美国</makingregion>
+			<score>9.1</score>
+			<description>
+一个鞋匠家庭出身的12岁墨西哥小男孩米格，自幼有一个音乐梦，但音乐却是被家庭所禁止的，他们认为自己被音乐诅咒了。在米格秘密追寻音乐梦时，因为触碰了一把吉他而踏上了亡灵土地。每年的亡灵节日，逝去的家人都会返回人间与亲人团聚，但从来还没有人去到过亡灵的世界。米格被多彩绚丽的亡灵世界所震撼，而更令他的惊喜的是，他重逢了失去的母亲和祖辈们，一家人要想办法将米格重新送回人间。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>动画</type>
+			<type>冒险</type>
+			<type>家庭</type>
+			<language>英语</language>
+			<releasetime>
+				<date area="美国">2017-11-22</date>
+				<date area="中国">2017-11-24</date>
+			</releasetime>
+			<length area="美国">PT105M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>李</first_name>
+					<last_name>昂克里奇</last_name>
+				</person>
+				<person>
+					<first_name>阿德里安</first_name>
+					<last_name>莫利纳</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>李</first_name>
+					<last_name>昂克里奇</last_name>
+				</person>
+				<person>
+					<first_name>阿德里安</first_name>
+					<last_name>莫利纳</last_name>
+				</person>
+				<person>
+					<first_name>马修</first_name>
+					<last_name>奥德里奇</last_name>
+				</person>	
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name>安东尼</first_name>
+					<last_name>冈萨雷斯</last_name>
+				</person>
+				<person>
+					<first_name>本杰明</first_name>
+					<last_name>布拉特</last_name>
+				</person>
+				<person>
+					<first_name>蕾妮</first_name>
+					<last_name>维克多</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="us0010">
+		<productinformation>
+			<name>水形物语</name>
+			<image src="images/水形物语.png"/>
+			<makingregion>美国</makingregion>
+			<score>7.3</score>
+			<description>
+1963年，美国时值冷战期间，哑女艾丽莎（莎莉·霍金斯饰）在政府实验室里工作，是那里的一名清洁女工。年幼时，一场大病夺走了艾丽莎的声音，之后一直至今，她都在沉默之中过着形单影只的生活。一天，实验室里拉响了高度戒备的警报，一个神秘的装满了水的罐子被送了进来，艾丽莎震惊的发现，罐子里关着一个半人半鱼的怪异生物（道格·琼斯饰）。科学家团队想要在这怪物身上提炼出能够制造生物武器的物质，可是在艾丽莎眼中，它不过是一个和自己一样的孤独的生命体，由于无法忍受实验室对怪物的折磨，艾丽莎开始偷偷来看这位怪兽。随着时间的推移，艾尔莎和怪物之间竟然产生了感情。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>奇幻</type>
+			<type>剧情</type>
+			<type>爱情</type>
+			<language>英语</language>
+			<releasetime>
+				<date area="美国">2017-12-01</date>
+				<date area="中国">2018-03-16</date>
+			</releasetime>
+			<length area="美国">PT123M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>吉尔莫</first_name>
+					<last_name>托罗</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>瓦内莎</first_name>
+					<last_name>泰勒</last_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name>莎莉</first_name>
+					<last_name>霍金斯</last_name>
+				</person>
+				<person>
+					<first_name>迈克尔</first_name>
+					<last_name>珊农</last_name>
+				</person>
+				<person>
+					<first_name>道格</first_name>
+					<last_name>琼斯</last_name>
+				</person>
+				<person>
+					<first_name>奥克塔维亚</first_name>
+					<last_name>斯宾瑟</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="th0001">
+		<productinformation>
+			<name>天才枪手</name>
+			<image src="images/天才枪手.png"/>
+			<makingregion>泰国</makingregion>
+			<score>8.2</score>
+			<description>
+出生平凡的天才少女小琳（茱蒂蒙·琼查容苏因饰）在进入贵族学校后，结识了富二代同学葛瑞丝（依莎亚·贺苏汪饰）与阿派（披纳若·苏潘平佑饰），从此开始了考场作弊生涯，与此同时，另一名记忆力极佳的天才学霸班克（查侬·散顶腾古饰）发现了小琳不为人知的“交易”。经过多场险象环生的“作弊战争”后，小琳接下最后一单在国际考场上为富家子弟作弊的天价委托。一场横跨两大洲的完美作弊方案横空出世，然而一切并不像他们想的那么简单。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<type>犯罪</type>
+			<language>泰语</language>
+			<language>英语</language>
+			<releasetime>
+				<date area="泰国">2017-05-03</date>
+				<date area="中国">2017-10-13</date>
+			</releasetime>
+			<length area="泰国">PT130M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>纳塔吾</first_name>
+					<last_name>彭皮里亚</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>塔妮达</first_name>
+					<last_name>汉塔维瓦塔娜</last_name>
+				</person>
+				<person>
+					<first_name>瓦苏红</first_name>
+					<last_name>皮娅罗姆娜</last_name>
+				</person>
+				<person>
+					<first_name>纳塔吾</first_name>
+					<last_name>彭皮里亚</last_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name>茱蒂蒙</first_name>
+					<last_name>琼查容苏因</last_name>
+				</person>
+				<person>
+					<first_name>查侬</first_name>
+					<last_name>散顶腾古</last_name>
+				</person>
+				<person>
+					<first_name>依莎亚</first_name>
+					<last_name>贺苏汪</last_name>
+				</person>
+				<person>
+					<first_name>披纳若</first_name>
+					<last_name>苏潘平佑</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="cn0003">
+		<productinformation>
+			<name>那些年，我们一起追的女孩</name>
+			<image src="images/那些年，我们一起追的女孩.png"/>
+			<makingregion>中国台湾</makingregion>
+			<score>8.1</score>
+			<description>
+影片改编自九把刀同名小说，讲述了柯景腾和沈佳宜之间令人唏嘘的爱情故事。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<type>爱情</type>
+			<type>喜剧</type>
+			<type>青春</type>
+			<language>普通话</language>
+			<releasetime>
+				<date area="大陆">2012-01-06</date>
+				<date area="台湾"> 2011-08-19</date>
+				<date area="香港">2011-10-20</date>
+			</releasetime>
+			<length area="大陆">PT100M</length>
+			<length area="港澳台">PT110M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<last_name>九</last_name>
+					<first_name>把刀</first_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<last_name>九</last_name>
+					<first_name>把刀</first_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<last_name>柯</last_name>
+					<first_name>震东</first_name>
+				</person>
+				<person>
+					<last_name>陈</last_name>
+					<first_name>妍希</first_name>
+				</person>
+				<person>
+					<last_name>庄</last_name>
+					<first_name>濠全</first_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="kr0001">
+		<productinformation>
+			<name>我的野蛮女友</name>
+			<image src="images/我的野蛮女友.png"/>
+			<makingregion>韩国</makingregion>
+			<score>8.1</score>
+			<description>
+拥有俊秀外貌和天才头脑的汉城府尹之子甄优（周元饰），偶然搭救了一名醉酒女子，没想到不仅没有得到感谢，还被吐了一身，甚至被当做变态狠揍一顿，而这名女子竟是当今朝鲜公主慧明公主（吴涟序饰）。慧明公主外表清纯可人，实际上却是个活泼野蛮的闯祸精。自从遇见她，甄优原本顺遂的人生开始变得难以预测、惊喜连连。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<type>爱情</type>
+			<type>喜剧</type>
+			<language>韩语</language>
+			<language>英语</language>
+			<releasetime>
+				<date area="韩国">2001-07-27</date>
+			</releasetime>
+			<length area="韩国">PT123M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<last_name>郭</last_name>
+					<first_name>在容</first_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<last_name>郭</last_name>
+					<first_name>在容</first_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<last_name>车太</last_name>
+					<first_name>贤</first_name>
+				</person>
+				<person>
+					<last_name>全智</last_name>
+					<first_name>贤</first_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="cn0004">
+		<productinformation>
+			<name>小城之春</name>
+			<image src="images/小城之春.png"/>
+			<makingregion>中国</makingregion>
+			<score>8.6</score>
+			<description>
+影片讲述了一个已婚女人在丈夫久病不起的情况下再次见到昔日恋人时的故事。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<type>爱情</type>
+			<language>普通话</language>
+			<releasetime>
+				<date area="中国">1948-09-01</date>
+			</releasetime>
+			<length area="中国">PT93M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<last_name>费</last_name>
+					<first_name>穆</first_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<last_name>李</last_name>
+					<first_name>天济</first_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<last_name>石</last_name>
+					<first_name>羽</first_name>
+				</person>
+				<person>
+					<last_name>李</last_name>
+					<first_name>纬</first_name>
+				</person>
+				<person>
+					<last_name>韦</last_name>
+					<first_name>伟</first_name>
+				</person>
+				<person>
+					<last_name>张</last_name>
+					<first_name>鸿眉</first_name>
+				</person>
+				<person>
+					<last_name>崔</last_name>
+					<first_name>超明</first_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="jp0005">
+		<productinformation>
+			<name>千与千寻</name>
+			<image src="images/千与千寻.png"/>
+			<makingregion>日本</makingregion>
+			<score>9.2</score>
+			<description>
+10岁的少女千寻与父母一起从都市搬家到了乡下。没想到在搬家的途中，一家人发生了意外。他们进入了汤屋老板魔女控制的奇特世界——在那里不劳动的人将会被变成动物。千寻的爸爸妈妈因贪吃变成了猪，千寻为了救爸爸妈妈经历了很多磨难，在期间她遇见了白龙，一个既聪明又冷酷的少年，在经历了很多事情之后，千寻最后救出了爸爸妈妈，拯救了白龙。 
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<type>动画</type>
+			<type>奇幻</type>
+			<language>日语</language>
+			<releasetime>
+				<date area="日本">2001-07-20</date>
+			</releasetime>
+			<length area="日本">PT125M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<last_name>宫崎</last_name>
+					<first_name>骏</first_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<last_name>宫崎</last_name>
+					<first_name>骏</first_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<last_name>柊</last_name>
+					<first_name>瑠美</first_name>
+				</person>
+				<person>
+					<last_name>入野</last_name>
+					<first_name>自由</first_name>
+				</person>
+				<person>
+					<last_name>中村</last_name>
+					<first_name>彰男</first_name>
+				</person>
+				<person>
+					<last_name>夏木</last_name>
+					<first_name>真理</first_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="us0011">
+		<productinformation>
+			<name>机器人总动员</name>
+			<image src="images/机器人总动员.png"/>
+			<makingregion>美国</makingregion>
+			<score>9.3</score>
+			<description>
+故事讲述了地球上的清扫型机器人瓦力偶遇并爱上了机器人伊娃后，追随她进入太空历险的一系列故事。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>动画</type>
+			<type>科幻</type>
+			<type>爱情</type>
+			<language>英语</language>
+			<releasetime>
+				<date area="美国">2008-06-27</date>
+			</releasetime>
+			<length area="美国">PT98M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>安德鲁</first_name>
+					<last_name>斯坦顿</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>安德鲁</first_name>
+					<last_name>斯坦顿</last_name>
+				</person>
+				<person>
+					<first_name>吉姆</first_name>
+					<last_name>卡波比安科</last_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name>本</first_name>
+					<last_name>贝尔特</last_name>
+				</person>
+				<person>
+					<first_name>艾丽莎</first_name>
+					<last_name>奈特</last_name>
+				</person>
+				<person>
+					<first_name>杰夫</first_name>
+					<last_name>格尔林</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="us0012">
+		<productinformation>
+			<name>楚门的世界</name>
+			<image src="images/楚门的世界.png"/>
+			<makingregion>美国</makingregion>
+			<score>9.1</score>
+			<description>
+影片讲述了楚门是一档热门肥皂剧的主人公，他身边的所有事情都是虚假的，他的亲人和朋友全都是演员，但他本人对此一无所知。最终楚门不惜一切代价走出了这个虚拟的世界。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<language>英语</language>
+			<releasetime>
+				<date area="美国">1998-06-05</date>
+			</releasetime>
+			<length area="美国">PT103M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>彼得</first_name>
+					<last_name>威尔</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>安德鲁</first_name>
+					<last_name>尼科尔</last_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name>金</first_name>
+					<last_name>凯瑞</last_name>
+				</person>
+				<person>
+					<first_name>劳拉</first_name>
+					<last_name>琳妮</last_name>
+				</person>
+				<person>
+					<first_name>诺亚</first_name>
+					<last_name>艾默里奇</last_name>
+				</person>
+				<person>
+					<first_name>艾德</first_name>
+					<last_name>哈里斯</last_name>
+				</person>
+				<person>
+					<first_name>娜塔莎</first_name>
+					<last_name>麦克艾霍恩</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="us0013">
+		<productinformation>
+			<name>林中小屋</name>
+			<image src="images/林中小屋.png"/>
+			<makingregion>美国</makingregion>
+			<score>7.4</score>
+			<description>
+该片讲述了五名好友驱车前往位于深山老林的小木屋中度假，却莫名其妙掉入一个神秘的圈套中。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<type>惊悚</type>
+			<type>恐怖</type>
+			<language>英语</language>
+			<releasetime>
+				<date area="美国">2012-04-13</date>
+			</releasetime>
+			<length area="美国">PT95M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>德鲁</first_name>
+					<last_name>高达</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>乔斯</first_name>
+					<last_name>韦登</last_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name>克里斯</first_name>
+					<last_name>海姆斯沃斯</last_name>
+				</person>
+				<person>
+					<first_name>杰西</first_name>
+					<last_name>威廉姆斯</last_name>
+				</person>
+				<person>
+					<first_name>安娜</first_name>
+					<last_name>哈彻森</last_name>
+				</person>
+				<person>
+					<first_name>克里斯汀</first_name>
+					<last_name>康奈利</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="us0014">
+		<productinformation>
+			<name>海边的曼彻斯特</name>
+			<image src="images/海边的曼彻斯特.png"/>
+			<makingregion>美国</makingregion>
+			<score>8.6</score>
+			<description>
+李·钱德勒（卡西·阿弗莱克饰）是一个沉默寡言的人，在波士顿无休无止的做着各种杂活。但这似乎只是他为了逃避过去、隐藏悲痛所找的借口，甚至当收到挚爱的哥哥乔（凯尔·钱德勒饰）因心脏病发作而去世的消息时，他严肃阴沉的脸上也没有增加更多的悲伤。在他回到摒弃多年的家乡曼切斯特后，发现自己被指名为侄子帕特里克（卢卡斯·赫奇斯饰）的监护人。李·钱德勒不愿搬回这个有着太多回忆的家乡，而侄子帕特里克则不愿抛弃他的生活与朋友，跟李远走他乡。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<type>家庭</type>
+			<language>英语</language>
+			<releasetime>
+				<date area="美国">2016-11-18</date>
+				<date area="中国">2017-08-02</date>
+			</releasetime>
+			<length area="美国">PT137M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>肯尼斯</first_name>
+					<last_name>罗纳根</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>肯尼斯</first_name>
+					<last_name>罗纳根</last_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name>卡西</first_name>
+					<last_name>阿弗莱克</last_name>
+				</person>
+				<person>
+					<first_name>米歇尔</first_name>
+					<last_name>威廉姆斯</last_name>
+				</person>
+				<person>
+					<first_name>凯尔</first_name>
+					<last_name>钱德勒</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="kr0002">
+		<productinformation>
+			<name>釜山行</name>
+			<image src="images/釜山行.png"/>
+			<makingregion>韩国</makingregion>
+			<score>8.3</score>
+			<description>
+影片讲述单亲爸爸石宇与女儿秀安乘坐KTX高速列车往釜山，列车上由一位少女身上带来的僵尸病毒开始肆虐且不断扩散，列车于倾刻间陷入灾难的故事。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>动作</type>
+			<type>惊悚</type>
+			<type>灾难</type>
+			<language>韩语</language>
+			<releasetime>
+				<date area="韩国">2016-07-20</date>
+			</releasetime>
+			<length area="韩国">PT118M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<last_name>延</last_name>
+					<first_name>相昊</first_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<last_name>延</last_name>
+					<first_name>相昊</first_name>
+				</person>
+				<person>
+					<last_name>朴</last_name>
+					<first_name>柱錫</first_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<last_name>孔</last_name>
+					<first_name>刘</first_name>
+				</person>
+				<person>
+					<last_name>郑</last_name>
+					<first_name>裕美</first_name>
+				</person>
+				<person>
+					<last_name>金</last_name>
+					<first_name>秀安</first_name>
+				</person>
+				<person>
+					<last_name>金</last_name>
+					<first_name>义城</first_name>
+				</person>
+				<person>
+					<last_name>马</last_name>
+					<first_name>东锡</first_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="cn0005">
+		<productinformation>
+			<name>集结号</name>
+			<image src="images/集结号.png"/>
+			<makingregion>中国</makingregion>
+			<score>7.9</score>
+			<description>
+该片是一部以第二次国共内战和朝鲜战争为题材的电影，改编自杨金远的小说《官司》。该片讲述了解放战争时期，连长谷子地探明当年集结号的真相，为九连牺牲的战友们争取荣誉的故事。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<type>历史</type>
+			<type>战争</type>
+			<language>普通话</language>
+			<releasetime>
+				<date area="中国">2007-12-20</date>
+			</releasetime>
+			<length area="中国">PT124M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<last_name>冯</last_name>
+					<first_name>小刚</first_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<last_name>刘</last_name>
+					<first_name>恒</first_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<last_name>张</last_name>
+					<first_name>涵予</first_name>
+				</person>
+				<person>
+					<last_name>邓</last_name>
+					<first_name>超</first_name>
+				</person>
+				<person>
+					<last_name>袁</last_name>
+					<first_name>文康</first_name>
+				</person>
+				<person>
+					<last_name>汤</last_name>
+					<first_name>嬿</first_name>
+				</person>
+				<person>
+					<last_name>廖</last_name>
+					<first_name>凡</first_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+	<movie id="us0015">
+		<productinformation>
+			<name>纸月亮</name>
+			<image src="images/纸月亮.png"/>
+			<makingregion>美国</makingregion>
+			<score>8.7</score>
+			<description>
+影片讲述了一个做风筝的穷家小野孩陈天送，恋上将成为女头家的富家千金高诗琴，二人纯纯的爱，最终演变成一个无限遗憾的凄美爱情故事。
+			</description>
+		</productinformation>
+		<screeningversion>
+			<type>剧情</type>
+			<type>喜剧</type>
+			<language>英语</language>
+			<releasetime>
+				<date area="美国">1973-05-09</date>
+			</releasetime>
+			<length area="美国">PT102M</length>
+		</screeningversion>
+		<contributor>
+			<director>
+				<person>
+					<first_name>彼得</first_name>
+					<last_name>博格丹诺维奇</last_name>
+				</person>
+			</director>
+			<screenwriter>
+				<person>
+					<first_name>阿尔文</first_name>
+					<last_name>萨金特</last_name>
+				</person>
+			</screenwriter>
+			<stars>
+				<person>
+					<first_name> 瑞安</first_name>
+					<last_name>奥尼尔</last_name>
+				</person>
+				<person>
+					<first_name>塔图姆</first_name>
+					<last_name>奥尼尔</last_name>
+				</person>
+				<person>
+					<first_name>玛德莲</first_name>
+					<last_name>卡恩</last_name>
+				</person>
+			</stars>
+		</contributor>
+	</movie>
+</movielist>
